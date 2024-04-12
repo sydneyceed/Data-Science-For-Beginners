@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education | Solutions | Assignemnts | cosmosDB | Create solutions respective to the assignemnt |
+| Vaccination | Unvaccinated numbers | vaccinated population | SQL | Observe the vaccination progress in the ratio of vaccinated to unvaccinated |
+| Productivity | Unchecked | Daily goals | SQL | Note the average of daily goals that go unchecked |
 
 ## Rubric
 
